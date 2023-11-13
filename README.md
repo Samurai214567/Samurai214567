@@ -33,3 +33,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
 </div>
+
+### :trophy: Достижения :
