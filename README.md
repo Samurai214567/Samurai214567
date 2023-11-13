@@ -11,3 +11,7 @@
 <div id="viewproof" align="center" >
   <img src = "https://komarev.com/ghpvc/?username=Samurai214567&style=flat-square&color=blue"/>
 </div>
+
+<div id="heythere" align="center"
+<hi> Профиль на GITHUB </hi>
+</div>  
