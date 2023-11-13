@@ -23,3 +23,13 @@
 - :violin: Мне нравится слушать скрипку
 
 - :volleyball: Мне нравится играть в волейбол
+
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg?short_path=8eb0f85" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
+</div>
