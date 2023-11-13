@@ -9,5 +9,5 @@
   </div>
 
 <div id="viewproof" align="center" >
-  <img scr = "https://komarev.com/ghpvc/?username=Samurai214567&style=flat-square&color=blue"/>
+  <img src = "https://komarev.com/ghpvc/?username=Samurai214567&style=flat-square&color=blue"/>
 </div>
